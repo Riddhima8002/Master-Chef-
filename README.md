@@ -1,1 +1,4 @@
-# Master-Chef-
+Nasi goreng refers to "fried rice" in both the Indonesian and Malay languages.
+Nasi goreng has long been considered a national dish of Indonesia.
+A ubiquitous meal throughout Indonesia, particularly for breakfast, it can be enjoyed in simple versions from a tin plate at a roadside food stall, eaten on porcelain in restaurants, or collected from the buffet tables of dinner parties in urban cities like Jakarta.
+Nasi Goreng in Indonesian means fried rice. It's simply a dish made of rice fried in a mix of sauces with onions and chillies. You can make different versions of Nasi Goreng by adding ingredients. 
